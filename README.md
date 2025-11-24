@@ -29,7 +29,7 @@ Caso deseje inspecionar ou contribuir com o código-fonte deste portfólio, siga
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/eduduf/Banco-de-Sangue.git
+   [git clone https://github.com/eduduf/Banco-de-Sangue.git](https://github.com/eduduf/Banco-de-Sangue.git)
 
 2. **Navegue até o diretório:**
    ```bash
