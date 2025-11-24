@@ -7,7 +7,7 @@ O objetivo é criar uma página leve, moderna e totalmente estruturada com boas 
 
 ## 🌐 Demonstração
 
-O site está disponível online através do [GitHub Pages](https://eduduf.github.io/portifolio-pessoal/).
+O site está disponível online através do [GitHub Pages](https://eduduf.github.io/Banco-de-Sangue/).
 
 - O site é responsivo, moderno para focar a atenção do usuário no conteúdo e nos projetos.
 
